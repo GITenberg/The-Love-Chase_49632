@@ -1,10 +1,16 @@
 _repo: The-Love-Chase_49632
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49632-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Grendon, Felix
     gutenberg_agent_id: '45452'
     url: http://www.gutenberg.org/2009/agents/45452
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49632#The-Love-Chase
 gutenberg_issued: '2015-08-06'
 gutenberg_type: Text
 identifiers:
